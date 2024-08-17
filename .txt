@@ -1,0 +1,204 @@
+might need it later
+<section class="info-help">
+<div class="container">
+<div class="row info-head">
+<div class="col-lg-3 col-md-6">
+<div class="info-text">
+<h3>Promotions and Special Offer.</h3>
+<!--<p>Buy Lands in Ekiti at Uncontestable Prices </p>
+<h3>August 20th - September 30th, 2021</h3>-->
+<div class="inf-btn pro">
+<a href="phases" class="btn btn-pro btn-secondary btn-lg">Get Started</a>
+</div>
+</div>
+</div>
+<div class="featured portfolio home18 item col-lg-9 col-md-6 landscapes sale">
+<div class="portfolio col-xl-12">
+<div class="slick-lancers2">
+<div class="agents-grid">
+<div class="people">
+<div class="project-single">
+<div class="project-inner project-head">
+<div class="homes">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<div class="homes-price"></div>
+<img src="images/uploads/promo/997457949_WhatsApp Image 2022-02-21 at 1.15.11 PM.jpeg.jpeg" alt="home-1" class="img-responsive" style="height:300px;">
+</a>
+</div>
+<div class="button-effect">
+<a href="#" class="btn"><i class="fa fa-link"></i></a>
+<a href="#" class="img-poppu btn"><i class="fa fa-photo"></i></a>
+</div>
+</div>
+<!-- homes content -->
+<div class="homes-content">
+<!-- homes address -->
+<h3><a href="#">LOVER'S COURT</a></h3>
+<p class="homes-address mb-3">
+</p>
+<!-- homes List -->
+We are pleased to introduce a first of its kind-  Our &lsquo;Lover&rsquo;s Court&rsquo; in Abuj<br/>.... <button onclick="readall('We are pleased to introduce a first of its kind-  Our &lsquo;Lover&rsquo;s Court&rsquo; in Abuja and Ekiti.
+
+This is a special one from us to lovers all over the world; this is a unique way to gift the flowers of a lifetime. 
+
+The  Court by GREEN ATLAS Estates in Abuja  is ready for occupation and comes with valid documents and approved building plans from the relevant agencies.
+
+The  Court in Abuja is on the Abuja/ Lokoja Expressway by Kwali. The location is ready for occupation and are very affordable.
+
+The Court in Abuja sells for NGN 190,000 per plot. 
+
+You can gift your lover, yourself, your children or parents a plot at The Lover&rsquo;s Court. It is for everyone!
+
+Like we always say, our mission at GREEN ATLAS Estates is to provide affordable housing for every Nigerian; and we will not stop till we achieve this. We remain GREEN ATLAS, the developer that cares')" style="border:none;">Read All</button>
+<div class="footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="agents-grid">
+<div class="people">
+<div class="project-single">
+<div class="project-inner project-head">
+<div class="homes">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<div class="homes-price"></div>
+<img src="images/uploads/promo/398740565_IMG_9309.JPG.JPG" alt="home-1" class="img-responsive" style="height:300px;">
+</a>
+</div>
+<div class="button-effect">
+<a href="#" class="btn"><i class="fa fa-link"></i></a>
+<a href="#" class="img-poppu btn"><i class="fa fa-photo"></i></a>
+</div>
+</div>
+<!-- homes content -->
+<div class="homes-content">
+<!-- homes address -->
+<h3><a href="#">AGENCY</a></h3>
+<p class="homes-address mb-3">
+</p>
+<!-- homes List -->
+Did you know you can get 5% Agency on any of our lands that you sell, this is a unique opportun<br/>.... <button onclick="readall('Did you know you can get 5% Agency on any of our lands that you sell, this is a unique opportunity to make a good living as we bring it to your doorstep End of the year promos on all our lands in Abuja, Ekiti, Ibadan, and Ilorin.')" style="border:none;">Read All</button>
+<div class="footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="agents-grid">
+<div class="people">
+<div class="project-single">
+<div class="project-inner project-head">
+<div class="homes">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<div class="homes-price"></div>
+<img src="images/uploads/promo/247638190_ROAD SHOW MAP.jpg.jpg" alt="home-1" class="img-responsive" style="height:300px;">
+</a>
+</div>
+<div class="button-effect">
+<a href="#" class="btn"><i class="fa fa-link"></i></a>
+<a href="#" class="img-poppu btn"><i class="fa fa-photo"></i></a>
+</div>
+</div>
+<!-- homes content -->
+<div class="homes-content">
+<!-- homes address -->
+<h3><a href="#">KABA MEGA ROAD SHOW</a></h3>
+<p class="homes-address mb-3">
+</p>
+<!-- homes List -->
+Updated roadmap to how the Mega Road show would be, our starting point (point1 to point 7) the <br/>.... <button onclick="readall('Updated roadmap to how the Mega Road show would be, our starting point (point1 to point 7) the Finish point.
+
+Join us on this exciting journey we are about to embark on!')" style="border:none;">Read All</button>
+<div class="footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="agents-grid">
+<div class="people">
+<div class="project-single">
+<div class="project-inner project-head">
+<div class="homes">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<div class="homes-price"></div>
+<img src="images/uploads/promo/872712880_KABA ROAD WALK.jpg.jpg" alt="home-1" class="img-responsive" style="height:300px;">
+</a>
+</div>
+<div class="button-effect">
+<a href="#" class="btn"><i class="fa fa-link"></i></a>
+<a href="#" class="img-poppu btn"><i class="fa fa-photo"></i></a>
+</div>
+</div>
+<!-- homes content -->
+<div class="homes-content">
+<!-- homes address -->
+<h3><a href="#">KABA ROAD WALK</a></h3>
+<p class="homes-address mb-3">
+</p>
+<!-- homes List -->
+The road show is gonna be Massive, we would preach our brand to the whole of Abuja Nigeria.
+
+<br/>.... <button onclick="readall('The road show is gonna be Massive, we would preach our brand to the whole of Abuja Nigeria.
+
+Catch us on the 15th of July as we showcase our brand with lots of land offers!
+
+See you there.')" style="border:none;">Read All</button>
+<div class="footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="agents-grid">
+<div class="people">
+<div class="project-single">
+<div class="project-inner project-head">
+<div class="homes">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<!-- homes img -->
+<a href="#" class="homes-img">
+<div class="homes-price"></div>
+<img src="images/uploads/promo/558538477_NEW PRICES.png.png" alt="home-1" class="img-responsive" style="height:300px;">
+</a>
+</div>
+<div class="button-effect">
+<a href="#" class="btn"><i class="fa fa-link"></i></a>
+<a href="#" class="img-poppu btn"><i class="fa fa-photo"></i></a>
+</div>
+</div>
+<!-- homes content -->
+<div class="homes-content">
+<!-- homes address -->
+<h3><a href="#">NEW PRICES</a></h3>
+<p class="homes-address mb-3">
+</p>
+<!-- homes List -->
+We always setting the pace in the world of real estate, own a land with ease!<div class="footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+this above is one section
